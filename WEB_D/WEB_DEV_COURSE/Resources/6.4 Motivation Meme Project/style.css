@@ -1,0 +1,22 @@
+html
+{
+    background-color: black;
+}
+img{width: 100%;}
+#first
+{
+    height: fit-content;
+    width: fit-content;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 25%;
+    border: solid white;
+    border-width: 5px;
+}
+h1{color: white;text-align: center;}
+p{color: white;text-align: center;}
+#second
+{
+    margin-left: 25%;
+    margin-right: 25%;
+}
