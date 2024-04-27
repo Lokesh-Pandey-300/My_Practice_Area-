@@ -1,0 +1,8 @@
+@media (min-width: 319px) and (max-width: 480px) {
+    body {
+      background-color: lightsalmon;
+    }
+  }
+body{
+    background-color: aquamarine;
+}
